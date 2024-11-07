@@ -65,6 +65,7 @@ EDA involves the exploring of data to answer some questions about the data such 
 
 ### Data Visualization
 
+![Power BI Visualization Prj 1](https://github.com/user-attachments/assets/3e724114-b5e1-4e5b-ae36-a8004c8bcd43)
 
 
 
