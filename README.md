@@ -59,11 +59,18 @@ The following software tools are required for this project:
 EDA involves the exploring of data to answer some questions about the data such as 
 - What product are on the peak sales?
 - What is the overall sales trend?
-- What products are top sellers?
+- What regions have the highest revenue contribution?
 
 ---
 
-### Data Analysis
+### Data Visualization
+
+
+
+
+
+
+
 
 ---
 ### Insights
