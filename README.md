@@ -69,6 +69,7 @@ EDA involves the exploring of data to answer some questions about the data such 
 
 ![LITA Capstone Dataset Excel](https://github.com/user-attachments/assets/dff09f93-8c8c-42b8-8512-d0124d800fce)
 
+![Pivot Table Project](https://github.com/user-attachments/assets/a510fce5-ef47-471e-923d-03f916e3e33e)
 
 
 
