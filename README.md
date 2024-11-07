@@ -8,7 +8,11 @@ This project aims at analyzing the sales performance of a retail store. The anal
 
 ### Project Objective
 ---
-The Retail Sales Performance Analysis aims to provide a comprehensive analysis of sales performance for a retail store ,aiming to identify trends,understand customer behavior, optimize inventory, and improve revenue. The insights derived will help the store make data-driven decisions, maximize sales, and increase profitability.
+The Retail Sales Performance Analysis aims to provide a comprehensive analysis of sales performance for a retail store 
+ - To identify trends, understand customer behavior, optimize inventory, and improve revenue.
+ - To help the store make data-driven decisions, maximize sales, and increase profitability.
+ - To provide a user-friendly interface for generating pivot tables from data sources
+ - To develop a Power BI dashboard to visualize key insights.
 
 The project consists of three main phases: 
  1. **Excel Analysis** : Initial data exploration and basic analysis using pivot tables and Excel formulas.
@@ -51,14 +55,15 @@ The following software tools are required for this project:
 
 ---
 
-### Explorator Data Analysis
+### Exploratory Data Analysis
 EDA involves the exploring of data to answer some questions about the data such as 
 - What product are on the peak sales?
 - What is the overall sales trend?
 - What products are top sellers?
 
+---
 
-
+### Data Analysis
 
 ---
 ### Insights
