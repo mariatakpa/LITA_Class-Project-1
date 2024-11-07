@@ -67,6 +67,7 @@ EDA involves the exploring of data to answer some questions about the data such 
 
 ![Power BI Visualization Prj 1](https://github.com/user-attachments/assets/3e724114-b5e1-4e5b-ae36-a8004c8bcd43)
 
+![LITA Capstone Dataset Excel](https://github.com/user-attachments/assets/dff09f93-8c8c-42b8-8512-d0124d800fce)
 
 
 
