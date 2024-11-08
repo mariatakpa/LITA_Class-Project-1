@@ -64,36 +64,37 @@ EDA involves the exploring of data to answer some questions about the data such 
 ---
 
 ### Data Analysis
-This is where I included some lines of queries during analysis
+This is where I included  lines of queries during analysis
 
 ```sql
 select * from [dbo].[SalesData]
+
 Select product ,sum(Total_sales) as Totalsales from [dbo].[SalesData]
 Group by product
+
 Select Region,Count(orderID) as no_off_number from [dbo].[SalesData]
 Group by Region
+
 Select product,sum(Total_sales)as Totalsales from [dbo].[SalesData]
 Group by product
+
 Select product,sum(Total_sales) as Total_revenue from [dbo].[SalesData]
 Group by product
+
 Sum(OrderDate) as sales_month,sum(revenue) as Total_sales from [dbo].[SalesData]
 where year(2034-08-11)
 Group by OrderDate
+
 Select customer_id, sum(revenue) as total_purchase
 from [dbo].[SalesData]
 Group by customer_id
 order by 2 desc
+
 Select Region,sum(revenue)/(select sum(revenue)
 from [dbo].[sales data])* 100 as sales_percentage
 from [dbo].[sales data]
 group by region
 ```
-
-
-
-
-
-
 
 
 ---
